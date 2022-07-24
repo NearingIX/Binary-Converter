@@ -1,2 +1,2 @@
 # Binary-Converter
-A binary converter utilizing bitsets.
+A string to binary converter utilizing bitsets.

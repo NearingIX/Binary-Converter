@@ -1,4 +1,4 @@
-//C++ Binary Converter
+//C++ String to Binary Converter
 
 #include <iostream>
 #include <bitset>

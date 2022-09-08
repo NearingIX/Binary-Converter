@@ -6,7 +6,6 @@
 using namespace std;
 
 int main() {
-
     string messageDigest;
     string str = messageDigest;
     vector<bitset<8> > bitVector;
@@ -26,6 +25,6 @@ int main() {
     for (auto i: bitVector) {
         cout << i << ' ';
     }
-    
+    system("pause");
     return 0;
 }
